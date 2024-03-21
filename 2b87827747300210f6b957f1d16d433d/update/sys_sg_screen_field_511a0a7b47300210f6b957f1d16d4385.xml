@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>company</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>70</order>
+        <record_id_field/>
+        <screen display_value="Details">cd1a0a7b47300210f6b957f1d16d4377</screen>
+        <screen_data_item_table>problem</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 12:55:16</sys_created_on>
+        <sys_id>511a0a7b47300210f6b957f1d16d4385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>company</sys_name>
+        <sys_package display_value="Data Upload Utility" source="x_1106125_data_upl">2b87827747300210f6b957f1d16d433d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Upload Utility">2b87827747300210f6b957f1d16d433d</sys_scope>
+        <sys_update_name>sys_sg_screen_field_511a0a7b47300210f6b957f1d16d4385</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 12:55:16</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

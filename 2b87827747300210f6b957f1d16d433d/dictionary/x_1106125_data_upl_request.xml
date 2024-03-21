@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="70a9ce3b47300210f6b957f1d16d43c8" label="Data Upload Request" max_length="40" name="x_1106125_data_upl_request" type="collection">
+        <element attributes="encode_utf8=false" label="Application" max_length="32" name="application" reference="license_has_app" type="reference"/>
+        <element attributes="encode_utf8=false" label="Application2" max_length="32" name="application2" reference="sn_admin_center_application" type="reference"/>
+        <element attributes="encode_utf8=false" label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="encode_utf8=false" label="Table" max_length="32" name="table" reference="sys_db_object" type="reference"/>
+        <index name="index">
+            <element name="application"/>
+        </index>
+        <index name="index2">
+            <element name="application2"/>
+        </index>
+        <index name="index3">
+            <element name="name"/>
+        </index>
+        <index name="index4">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index5">
+            <element name="table"/>
+        </index>
+    </element>
+</database>

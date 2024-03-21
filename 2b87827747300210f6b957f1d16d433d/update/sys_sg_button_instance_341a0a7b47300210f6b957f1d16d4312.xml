@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Incident)">f81a0a7b47300210f6b957f1d16d430b</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Incident)</name>
+        <order/>
+        <parent>781ac67b47300210f6b957f1d16d43fe</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 12:55:15</sys_created_on>
+        <sys_id>341a0a7b47300210f6b957f1d16d4312</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Incident)</sys_name>
+        <sys_package display_value="Data Upload Utility" source="x_1106125_data_upl">2b87827747300210f6b957f1d16d433d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Upload Utility">2b87827747300210f6b957f1d16d433d</sys_scope>
+        <sys_update_name>sys_sg_button_instance_341a0a7b47300210f6b957f1d16d4312</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 12:55:15</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=341a0a7b47300210f6b957f1d16d4312"/>
+</record_update>

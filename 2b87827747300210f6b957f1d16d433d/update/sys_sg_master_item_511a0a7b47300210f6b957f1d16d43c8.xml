@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_1106125_data_upl_request</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Request Form Screen">5d1a0a7b47300210f6b957f1d16d43c6</embedded_screen>
+        <item_view/>
+        <name>Request master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 12:55:17</sys_created_on>
+        <sys_id>511a0a7b47300210f6b957f1d16d43c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request master_item</sys_name>
+        <sys_package display_value="Data Upload Utility" source="x_1106125_data_upl">2b87827747300210f6b957f1d16d433d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Upload Utility">2b87827747300210f6b957f1d16d433d</sys_scope>
+        <sys_update_name>sys_sg_master_item_511a0a7b47300210f6b957f1d16d43c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 12:55:17</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Request List Screen View Config">d91a0a7b47300210f6b957f1d16d4390</view_config>
+    </sys_sg_master_item>
+</record_update>
